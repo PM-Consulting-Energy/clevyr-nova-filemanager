@@ -64,7 +64,7 @@
             <Button
                 v-if="buttons.select_multiple"
                 variant="outline"
-                @click="multiSelecting = !multiSelecting"
+                @click="$emit('updated:multiSelecting', !multiSelecting)"
                 class="mr-2"
             >
                 <svg class="w-6 h-6 fill-current pt-1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">

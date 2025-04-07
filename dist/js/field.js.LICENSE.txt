@@ -46,12 +46,6 @@
  *
  */
 
-/*!
- * vuex v4.1.0
- * (c) 2022 Evan You
- * @license MIT
- */
-
 /*! https://mths.be/punycode v1.4.0 by @mathias */
 
 /*! regenerator-runtime -- Copyright (c) 2014-present, Facebook, Inc. -- license (MIT): https://github.com/facebook/regenerator/blob/main/LICENSE */
@@ -63,4 +57,12 @@
  * Released under MIT license <https://lodash.com/license>
  * Based on Underscore.js 1.8.3 <http://underscorejs.org/LICENSE>
  * Copyright Jeremy Ashkenas, DocumentCloud and Investigative Reporters & Editors
+ */
+
+/**
+ * filesize
+ *
+ * @copyright 2023 Jason Mulligan <jason.mulligan@avoidwork.com>
+ * @license BSD-3-Clause
+ * @version 10.1.0
  */
